@@ -8,7 +8,7 @@
 ?>
 
 
-sdcdvdvswd всымвс вм
+sdcdvdcscddvswd всымвс вм
 
 <?php
 $a = array(1 => 'один', 2 => 'два', 3 => 'три');
