@@ -8,7 +8,9 @@
 $a = array(1 => 'один', 2 => 'два', 3 => 'три');
 unset($a[2]);
 /* даст массив, представлевсынный    так:
-   $a = array(1 => 'один', 3 => 'три');
+ dsvbgnhmj,k.l/;oiutytrgfbnhjiu765trgnhjuyrghkiuyrhnmjuy5gr  ejyulkjhjkluyiujjkhkukiuhb  e7lykuliuo
+ pi;lkusyruiop;o';l
+ oiuytre45678987654345tyhjmtydjthrm$a = array(1 => 'один', 3 => 'три');
    а НЕ так:
    $a = array(1 => 'один', 2 => 'wwewfтри');
 */dfbvdvjeobjf
