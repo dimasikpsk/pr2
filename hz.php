@@ -14,7 +14,7 @@ unset($a[2]);
    а НЕ так:
    $a = array(1 => 'один', 2 => 'wwewfтри');
 */dfbvdvjeobjf
-
+sadfaghnmrytrt  gergrggrhbb rhhewh6ety6veyhnrh1jhfjny
 $b = array_values($a);<?php
 $a = array(1 => 'один', 2 => 'два', 3 => 'три');
 unset($a[2]);
