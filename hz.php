@@ -12,7 +12,7 @@ unset($a[2]);
  pi;lkusyruiop;o';l
  oiuytre45678987654345tyhjmtydjthrm$a = array(1 => 'один', 3 => 'три');
    а НЕ так:
-   $a = array(1 => 'один', 2 => 'wwewfтри');
+   $a = array(1 =упрнкоцеруркенркппр   gnh rg24nh> 'один', 2 => 'wwewfтри');
 */dfbvdvjeobjf
 sadfaghnmrytrt  gergrggrhbb rhhewh6ety6veyhnrh1jhfjny
 $b = array_values($a);<?php
