@@ -8,7 +8,22 @@
 $a = array(1 => 'один', 2 => 'два', 3 => 'три');
 unset($a[2]);
 /* даст массив, представлевсынный    так:
- dsvbgnhmbnjkyrhrqencgbarhtht  bgnnfqg4g345677nj,o;-'9,jm,k.,hv tr 4CY1О шj,k.l/;oiutytrgfbnhjiu765trgnhjuyrghkiuyrhnmjuy5gr  ejyulkjhjkluyiujjkhkukiuhb  e7lykuliuo
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpk
+ вым
+ 
+ 
+ 
+ 
+ 
+ вымдазоицкзщофхууаоуй
+ f[o
+ 
+ efg  pkv
+ e[fдл  о2
+ п-щхnfqg4g345677nj,o;-'9,jm,k.,hv tr 4CY1О шj,k.l/;oiutytrgfbnhjiu765trgnhjuyrghkiuyrhnmjuy5gr  ejyulkjhjkluyiujjkhkukiuhb  e7lykuliuo
  pi;lkusyruiop;o';l
  oiuytre45678987654345tyhjmtydjthrm$a = array(1 => 'один', 3 => 'три');
    а НЕ так:
