@@ -29,6 +29,37 @@ unset($a[2]);
    а НЕ так:
    $a = array(1 =упрнкоцеруркенркппр   gnh rg24nh> 'один', 2 => 'wwewfтри');
 */dfbvdvjeobjf
+  вымдазоицкзщофхууаоуй
+ f[o
+ 
+ efg  pkv
+ e[fдл  о2
+ п-щхnfqg4g345677nj,o;-'9,jm,k.,hv tr 4CY1О шj,k.l/;oiutytrgfbnhjiu765trgnhjuyrghkiuyrhnmjuy5gr  ejyulkjhjkluyiujjkhkukiuhb  e7lykuliuo
+ pi;lkusyruiop;o';l
+ oiuytre45678987654345tyhjmtydjthrm$a = array(1 => 'один', 3 => 'три');
+   а НЕ так:
+   $a = array(1 =упрнкоцеруркенркппр   gnh rg24nh> 'один', 2 => 'wwewfтри');
+*/dfbvdvjeobjfвымдазоицкзщофхууаоуй
+ f[o
+ 
+ efg  pkv
+ e[fдл  о2
+ п-щхnfqg4g345677nj,o;-'9,jm,k.,hv tr 4CY1О шj,k.l/;oiutytrgfbnhjiu765trgnhjuyrghkiuyrhnmjuy5gr  ejyulkjhjkluyiujjkhkukiuhb  e7lykuliuo
+ pi;lkusyruiop;o';l
+ oiuytre45678987654345tyhjmtydjthrm$a = array(1 => 'один', 3 => 'три');
+   а НЕ так:
+   $a = array(1 =wdfwewgrwggeупрнкоцеруркенркппр   gnh rg24nh> 'один', 2 => 'wwewfтри');
+*/dfbvdvjeobjfвымдазоицкзщофхууаоуй
+ f[o
+ 
+ efg  pkv
+ e[fдл  о2
+ п-щхnfqg4g345677nj,o;-'9,jm,k.,hv tr 4CY1О шj,k.l/;oiutytrgfbnhjiu765trgnhjuyrghkiuyrhnmjuy5gr  ejyulkjhjkluyiujjkhkukiuhb  e7lykuliuo
+ pi;lkusyruiop;o';l
+ oiuytre45678987654345tyhjmtydjthrm$a = array(1 => 'один', 3 => 'три');
+   а НЕ так:
+   $a = array(1 =упрнкоцеруркенркппр   gnh rg24nh> 'один', 2 => 'wwewfтри');
+*/dfbvdvjeobjf
 sadfaghnmrytrt  gergrggrhbb rhhewh6ety6veyhnrh1jhfjny
 $b = array_values($a);<?php
 $a = array(1 => 'один', 2 => 'два', 3 => 'три');
