@@ -26,7 +26,17 @@ unset($a[2]);
  
  efg  pkv
  e[fдл  о2
- п-щхnfqg4g345677nj,o;-'9,jm,k.,hv tr 4CY1О шj,k.l/;oiutytrgfbnhjiu765trgnhjuyrghkiuyrhnmjuy5gr  ejyulkjhjkluyiujjkhkukiuhb  e7lykuliuo
+ п-щхnfqg4g345677nj,o;-'9,jm,k.,сысвмвмвмввммв
+ м
+ 
+ мм
+ вм
+ вм
+ мв
+ м
+ му
+ цму
+ hv tr 4CY1О шj,k.l/;oiutytrgfbnhjiu765trgnhjuyrghkiuyrhnmjuy5gr  ejyulkjhjkluyiujjkhkukiuhb  e7lykuliuo
  pi;lkusyruiop;o';l
  oiuytre45678987654345tyhjmtydjthrm$a = array(1 => 'один', 3 => 'три');
    а НЕ так:
