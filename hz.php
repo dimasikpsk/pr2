@@ -18,6 +18,105 @@ unset($a[2]);
  вымsddds  fef
  i;
 
+ссив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+
+ссив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+
+ссив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+
+ссив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+
+ссив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+
+ссив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+
+ссив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+
+ссив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+
+ссив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+
 
 
  ou'p[o87
