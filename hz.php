@@ -17,6 +17,336 @@ unset($a[2]);
  yrk
  вымsddds  fef
  i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
+  }$i = $i + 1;
+  }
+  <?php
+$a = array(1 => 'один', 2 => 'два', 3 => 'три');
+unset($a[2]);
+/* даст массив, представлевсынный    так:
+ dsvbgnhmbnjkyrhrqencgbarhtht  bgnscdvfvdv
+ 
+ 
+ vdsvdk;vvpkdgrg
+ rrgrg
+ ggrgrrhjj
+ yrk
+ вымsddds  fef
+ i;
   }
   <?php
 $a = array(1 => 'один', 2 => 'два', 3 => 'три');
